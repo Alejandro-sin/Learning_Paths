@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "682f06267c9ba54b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a7e8098bac5b78c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f425111fee8892e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "CNA/Uncomplex Explantions/assets/He.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f93ac4fbe0903b01",
+    "type": "split",
+    "children": [
+      {
+        "id": "556cd233cc684a84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47dcc2421d1d8858",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "389ce6dcaa4519ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f854d03b645bc78c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4420fd51d2f4ad8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe0b8e3259af5834",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e41f982cfa6ee703",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CNA/Uncomplex Explantions/assets/He.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "590bfe851e2205dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CNA/Uncomplex Explantions/assets/He.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdad8f589a9c8296",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bfdefc2c61c8cb57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CNA/Uncomplex Explantions/assets/He.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8f425111fee8892e",
+  "lastOpenFiles": [
+    "CNA/Uncomplex Explantions/assets/Dinner_Party.png",
+    "CNA/Uncomplex Explantions/assets/You.png",
+    "CNA/Uncomplex Explantions/assets/Graph.png",
+    "CNA/Uncomplex Explantions/1. Medium/0.0 Explicación Analisis Redes.md"
+  ]
+}

@@ -23,8 +23,22 @@
 
 # INTRODUCTION.
 
-In this project I learn about ...  and how integrate ...
-Im base on... 
+
+
+
+La idea es crear un sistema que me permita publicar GIST para sacar markdowns más fácil y referenciar siempre de una manera imperdible.
+
+```
+article_name
+--- _assets
+--- _references
+--- notebooks
+--- requirements.txt
+--- Notes.md
+
+```
+
+python create_article.py mi_nuevo_articulo
 
 ## **Index** :
 
